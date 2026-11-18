@@ -32,3 +32,4 @@ These run only when you type them (`disable-model-invocation: true`).
 The model can pick these up by itself, and you can type them too.
 
 - **[legal-review](skills/legal-review/SKILL.md)**: Review a contract or terms against the actual law with a council of models from different providers that argue with each other. Every citation is checked against the official text.
+- **[css-clamp](skills/css-clamp/SKILL.md)**: Generate fluid CSS `clamp()` values for type, spacing and layout with a bundled calculator, for plain CSS, custom properties and Tailwind.
